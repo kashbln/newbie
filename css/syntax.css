@@ -1,0 +1,16 @@
+/* combining Selectors*/
+
+article.featured-content{
+    background: green;
+}
+
+#a div:last-of-type{
+    background: grey;
+}
+div.featured-content{
+    background: yellow;
+}
+
+
+
+ 

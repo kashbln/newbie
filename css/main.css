@@ -1,0 +1,17 @@
+h2{
+    color: sandybrown;
+    text-decoration: overline;
+    text-transform: uppercase;
+    font-style: oblique;
+}
+
+
+h3{
+    color: green;
+    outline-color: crimson;
+    
+}
+
+.bad-comment h3{
+    color: red;
+}
